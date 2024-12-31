@@ -1,0 +1,10 @@
+{
+  "packageRules": [
+    {
+      "groupName": "this group name is expected",
+      "matchPackageNames": [
+        "socket.io**"
+      ]
+    }
+  ]
+}
